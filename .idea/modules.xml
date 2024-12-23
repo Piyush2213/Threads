@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyThread/MyThread.iml" filepath="$PROJECT_DIR$/MyThread/MyThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myThread/MyThread.iml" filepath="$PROJECT_DIR$/myThread/MyThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronized/Synchronized.iml" filepath="$PROJECT_DIR$/synchronized/Synchronized.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Thread.iml" filepath="$PROJECT_DIR$/.idea/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronizedLock/synchronizedLock.iml" filepath="$PROJECT_DIR$/synchronizedLock/synchronizedLock.iml" />
     </modules>
   </component>
 </project>
